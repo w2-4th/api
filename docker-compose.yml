@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: ./Dockerfile
     ports:
-      - 9040:10083
+      - 9040:10084
     environment:
       VIRTUAL_HOST: w2api.cartesiancs.com
       LETSENCRYPT_HOST: w2api.cartesiancs.com
