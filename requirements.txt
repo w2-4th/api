@@ -6,7 +6,6 @@ fastapi==0.101.0
 h11==0.14.0
 httptools==0.6.0
 idna==3.4
-imutils==0.5.4
 Pillow==10.0.0
 python-dotenv==1.0.0
 python-multipart==0.0.6
